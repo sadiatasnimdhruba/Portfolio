@@ -1,0 +1,145 @@
+         	
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(210, 11, 11, 0.5);
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: yellow;
+}
+header.masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background:  url(images/dhruba.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.oh{
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(107, 50, 50);
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: red;
+}
+.bg-light {
+    background-color: #f5d4d4!important;
+}
+.ohh{
+		font-weight: bold;
+	font-size: 33px;
+}
+.navbar-light .navbar-brand {
+    color: rgb(107, 50, 50);
+}
+.navbar-light .navbar-brand:hover {
+    color: red;
+}
+.text-center {
+    text-align: left!important;
+}
+.col{
+	color:#5e1825;
+}
+
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.btn-xl {
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem;
+}
+hr.divider {
+    max-width: 39.25rem;
+    border-width: 0.1rem;
+    border-color: #ac4d5e;
+}
+body{
+	background-color: #ffc9c9;
+}
+.hd{
+	font-weight: bold;
+	font-size:60px;
+	color:#390101;
+}
+h3{
+	color:#862823;
+	font-weight:bold;
+	font-size:31px;
+}
+.fo{
+	color:#862823;
+	font-size:23px;
+}
+.sub{
+	font-size:20px;
+	color:#6c2d67;
+}
+.big{
+	font-size: 30px;
+}
+.social-icons .social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.00rem;
+    width: 3.00rem;
+    background-color: #6c2d67;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+}
+.link{
+	
+	color:#6c2d67;
+	font-size: 24px;
+	text-decoration:underline;
+}
+.link:hover{
+	color:red;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #FF5722;
+}
+footer{
+	background-color: #672b2b;
+	text-align: center;
+	border-top: 0.2rem solid#000;
+}
+.so{
+	color:#ff726b;
+}
+#scrollUp, #back-top {
+    background: #ec5b53;
+    height: 45px;
+    width: 45px;
+    right: 50px;
+    bottom: 18px;
+    position: fixed;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 48px;
+    border: 2px solid transparent;
+    box-shadow: 0 0 10px 3px rgba(108,98,98,0.2);
+}
+.bor{
+	border-bottom: 0.1rem solid #7d0000;
+}
+.carousel-indicators li {
+    background-color:#000;
+    height:6px;
+    width:35px;
+}
